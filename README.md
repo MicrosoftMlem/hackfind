@@ -1,13 +1,15 @@
-# 🔍 hackfind
+# hackfind
 
 A CLI tool that scrapes upcoming hackathons from **Devpost**, **MLH**, **Devfolio**, and **Hackathon.com**, aggregates them, deduplicates, and filters to show only what suits you.
+
+I'm probably not going to maintain this as this was just for me.
 
 ---
 
 ## Installation
 
 ```bash
-git clone https://github.com/you/hackfind.git
+git clone https://github.com/MicrosoftMlem/hackfind.git
 cd hackfind
 pip install -r requirements.txt
 ```
